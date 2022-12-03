@@ -76,20 +76,4 @@ async function playAgain() {
     }
 }
 Play();
-// async function startPlay(){
-//  const answer = await inquirer.prompt([
-//     {
-//         type: "input",
-//         message :'Enter a number',
-//         name : 'userguess',
-//         validate :(input)  => {
-//             if(isNaN(input)){
-//                 return 'Please enter a valid number'
-//             }
-//             else{
-//                 return true
-//             }
-//         }]);
-//     }
-//     const guess = Number(answer.userguess)
-//.then((answers) => console.log(`you heve entered : ${answers.userguess}`))
+
