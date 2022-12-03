@@ -1,9 +1,9 @@
 {
-  "name": "numberguessinggame",
+  "name": "guessthenumber",
   "version": "1.0.0",
   "description": "",
   "main": "output/index.js",
-  "bin": {"numberguessinggame":"output/index.js"},
+  "bin": {"guessthenumber":"output/index.js"},
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
